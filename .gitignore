@@ -1,2 +1,4 @@
 build
 lib
+.clone_done
+ddaq_prereqs_version.xml
